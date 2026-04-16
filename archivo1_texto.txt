@@ -1,1 +1,1 @@
-Esto es una archivo de la rama_1.
+"este es el texto exclusivo de la primera rama."
