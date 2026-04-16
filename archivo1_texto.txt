@@ -1,4 +1,2 @@
 
-"Este es el texto definitivo de la rama main."
-"este es el texto exclusivo de la primera rama."
-Este archivo ahora contiene los aportes de main y también de la rama_1.
+"Cambio en la rama principal"
