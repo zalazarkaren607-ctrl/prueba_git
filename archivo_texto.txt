@@ -1,1 +1,1 @@
-Hola!! Aprendiendo Git.
+Este es el texto definitivo de la rama main.
